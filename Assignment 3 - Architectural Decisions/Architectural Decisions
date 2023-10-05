@@ -26,7 +26,7 @@ Contents:
 
 ### Issue
 
-We have to create a mobile app for a modern transportation company. We will need tracking, booking feature, map interface, implement payment gateways, a secure authentication and authorization for both the driver and passenger, a reliable backend language that will store most data, ultimately create an app that will support both iOS and Android and lastly implement data encryption as security.
+We have to create a mobile app for a modern transportation company. We will need tracking, booking feature, map interface, implement payment gateways, a secure authentication and authorization for both the driver and passenger, a reliable backend language that will store most data, ultimately create an app that will support both iOS and Android, and lastly implement data encryption for security.
 
 ### Decision
   

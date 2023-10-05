@@ -1,18 +1,52 @@
 # Architectural Decision Record: Creating a mobile app for a modern transportation company
 
-refer to --> Choosing a database technology on Github
-              or
-refer to --> AD: Go programming language
+refer to --> AD: Programming languages
 
-## Status
+Contents:
+
+* [Summary](#summary)
+  * [Issue](#issue)
+  * [Decision](#decision)
+  * [Status](#status)
+* [Details](#details)
+  * [Assumptions](#assumptions)
+  * [Constraints](#constraints)
+  * [Positions](#positions)
+  * [Argument](#argument)
+  * [Implications](#implications)
+* [Related](#related)
+  * [Related decisions](#related-decisions)
+  * [Related requirements](#related-requirements)
+  * [Related artifacts](#related-artifacts)
+  * [Related principles](#related-principles)
+* [Notes](#notes)
+
+
+## Summary
+
+### Issue
+
+### Decision
+  
+### Status
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 
-## Context
-What is the issue that we're seeing that is motivating this decision or change?
+## Details
 
-## Decision
-What is the change that we're proposing and/or doing?
+## Assumptions
 
-## Consequences
-What becomes easier or more difficult to do because of this change?
+### Constraints
+
+### Positions
+
+### Argument
+
+### Implications
+
+## Related
+
+### Related Decisions
+
+### Related requirements
+
 

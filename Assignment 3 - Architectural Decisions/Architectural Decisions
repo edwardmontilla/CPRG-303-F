@@ -1,9 +1,10 @@
-# Architechtural Decision Record: React Native for creating a Mobile App for a modern transportation company
+# Architechtural Decision Record: React Native Framework
 
-## Status:
-#### Proposed
+#### Status: Proposed
 
 ## Context
+
+The team will develop an application using React Native as its UI framework for a transportation company. 
 
 What is the issue that we're seeing that is motivating this decision or change?
 

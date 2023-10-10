@@ -4,13 +4,15 @@
 
 ## Context
 
-The team will develop an application using React Native as its UI framework for a transportation company. In the future development of the app, it will be able to track and book rides for users, implement payment system, view driver deteails and ride history. An account authentication will be implemented for added security for both parties. Further details will be determined once proposed idea has been accepted.
-
-What is the issue that we're seeing that is motivating this decision or change?
+The team will develop a Mobile Application using React Native as its UI framework for a transportation company. In the future development of the app, it will be able to track and book rides for users, implement payment system, view driver deteails and ride history. An account authentication will be implemented for added security for both parties. Further details will be determined once proposed idea has been accepted.
 
 ## Decision
 
-What is the change that we're proposing and/or doing?
+- React Native will and can be implemented across platforms
+
+-
+
+-
 
 ## Consequences
 

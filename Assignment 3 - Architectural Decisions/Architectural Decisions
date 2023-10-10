@@ -1,56 +1,24 @@
-# Architectural Decision Record: Creating a mobile app for a modern transportation company
+# Decision record template by Michael Nygard
 
-refer to --> AD: Programming languages
+This is the template in [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+You can use [adr-tools](https://github.com/npryce/adr-tools) for managing the ADR files.
 
-Contents:
+In each ADR file, write these sections:
 
-* [Summary](#summary)
-  * [Issue](#issue)
-  * [Decision](#decision)
-  * [Status](#status)
-* [Details](#details)
-  * [Assumptions](#assumptions)
-  * [Constraints](#constraints)
-  * [Positions](#positions)
-  * [Argument](#argument)
-  * [Implications](#implications)
-* [Related](#related)
-  * [Related decisions](#related-decisions)
-  * [Related requirements](#related-requirements)
-  * [Related artifacts](#related-artifacts)
-  * [Related principles](#related-principles)
-* [Notes](#notes)
+# Title
 
+## Status
 
-## Summary
-
-### Issue
-
-We have to create a mobile app for a modern transportation company. We will need tracking, booking feature, map interface, implement payment gateways, a secure authentication and authorization for both the driver and passenger, a reliable backend language that will store most data, ultimately create an app that will support both iOS and Android, and lastly implement data encryption for security.
-
-### Decision
-
-We are choosing 
-  
-### Status
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 
-## Details
+## Context
 
-## Assumptions
+What is the issue that we're seeing that is motivating this decision or change?
 
-### Constraints
+## Decision
 
-### Positions
+What is the change that we're proposing and/or doing?
 
-### Argument
+## Consequences
 
-### Implications
-
-## Related
-
-### Related Decisions
-
-### Related requirements
-
-
+What becomes easier or more difficult to do because of this change?

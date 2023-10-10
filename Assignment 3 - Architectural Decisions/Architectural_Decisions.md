@@ -1,18 +1,40 @@
 # Architechtural Decision Record: React Native Framework
 
-#### Status: Proposed
+#### Status: Accepted
 
 ## Context
 
-The team will develop a Mobile Application using React Native as its UI framework for a transportation company. In the future development of the app, it will be able to track and book rides for users, implement payment system, view driver deteails and ride history. An account authentication will be implemented for added security for both parties. Further details will be determined once proposed idea has been accepted.
+The team will develop a Mobile Application using React Native as its UI framework for a transportation company. In the future development of the app, it will be able to track and book rides for users, implement payment system, view driver deteails and ride history. An account authentication will be implemented for added security for both parties. Further details will be determined once proposed idea has been finalized.
 
 ## Decision
 
-- React Native will and can be implemented across platforms
+Since React Native can be implemented for cross-platform development, we are proposing the following information in regards to features and backbone of the devlopment:
 
--
+- Mapbox will be incorporated due to pricing budget. This will also allow the team to fully customize the app based on the client's needs. 
 
--
+- The team will use server-sent events to track changes and updates in locations real-time.
+
+- Payments will be handled using a payment gateway such as Stripe which provided data encryption and offers various payment methods
+
+- Login security will incorporate a SMS-Bsaed 2FA system as it will be esaier for both users (a driver and passengers) to authenticate their information via mobile phone
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ 
+
+ 
+
+
+
+
 
 ## Consequences
 

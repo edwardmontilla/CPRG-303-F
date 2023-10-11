@@ -1,4 +1,4 @@
-By Edward Montilla & Japsimran Kaur Nanda
+By Edward Montilla & Japsimran Kaur Nanda (from Peaky Coders)
 
 # Architechtural Decision Record: Mobile Transportation App
 

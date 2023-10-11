@@ -16,15 +16,15 @@ Since React Native can be implemented for cross-platform development, we have de
 
 - The team will use server-sent events to track changes and updates in locations real-time.
 
-- Payments will be handled using a payment gateway such as Stripe which provided data encryption and offers various payment methods
+- Payments will be handled using a payment gateway such as Stripe which provides data encryption and offers various payment methods
 
-- Login security will incorporate a SMS-Bsaed 2FA system as it will be esaier for both users (a driver and passengers) to authenticate their information via mobile phone
+- Login security will incorporate a SMS-Bsaed 2FA system as it will be easier for both users (a driver and passengers) to authenticate their information via mobile phone while providing a robust security means
 
 - The team will design an appropriate databse schema for ease of use and create a user-friendly experience for all users 
 
-- Push notification such alerts confirmations, reminders when the ride is nearby, updates from the ride/driver and messaging between the driver and passenger and other features will use Pushwoosh and will integrate its system to the mobile app
+- Push notification such alerts confirmations, reminders when the ride is nearby, updates from the ride/driver and messaging between the driver and passenger and other features will use Pushwoosh and will integrate its system to the mobile app due to the ability to send message, images and videos files along with the ability to supprot multiple platforms
 
-- To best protect the user's data and sensitive information, we are considering a few security system services as part of the development. As of this moment, we are looking at Google's Apigee as an implementation
+- To best protect the user's data and sensitive information, we are considering a few security system services as part of the development. As of this moment, we are looking at Google's Apigee as an implementation due to being developer=friendly
 
 
 ## Consequences

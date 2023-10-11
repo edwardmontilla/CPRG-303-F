@@ -1,3 +1,5 @@
+By Edward Montilla & Japsimran Kaur Nanda
+
 # Architechtural Decision Record: Mobile Transportation App
 
 #### Status: Accepted
@@ -10,7 +12,7 @@ The team will develop a Mobile Application using React Native as its UI framewor
 
 Since React Native can be implemented for cross-platform development, we have decided to use the following systems to reinforce the foundation of the development:
 
-- Mapbox will be incorporated due to pricing budget. This will also allow the team to fully customize the app based on the client's needs. 
+- Mapbox will be incorporated due to pricing budget and tracking capabilities. This will also allow the team to fully customize the app based on the client's needs. 
 
 - The team will use server-sent events to track changes and updates in locations real-time.
 
@@ -27,4 +29,16 @@ Since React Native can be implemented for cross-platform development, we have de
 
 ## Consequences
 
-What becomes easier or more difficult to do because of this change?
+The process will be taxing and things may not go according to plan so we are being wary of the following:
+
+- The learning curve for the implementations will depend on how the team is able to handle existing and potential obstacles 
+  
+- Making sure that everything can be implemented properly with React Native as the backbone
+
+- Lacking knowledge in security and loop holes that could leak sensitive data due to poor implementation and reserach
+
+- Schedule is subject to change due to unknown factors in the development phase
+
+- Lacking in manpower
+
+With the proposed ideas given, the goal of creating a robust and practical mobile application using the requirements mentioned will prove to be our most challenging project yet. The end result will provide an convenient way to manage transportation rides while giving the user the transparency of the app's concept.

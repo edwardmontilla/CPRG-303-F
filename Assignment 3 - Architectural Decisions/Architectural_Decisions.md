@@ -8,7 +8,7 @@ The team will develop a Mobile Application using React Native as its UI framewor
 
 ## Decision
 
-Since React Native can be implemented for cross-platform development, we are proposing the following information in regards to features and other foundation of the development:
+Since React Native can be implemented for cross-platform development, we have decided to use the following systems to reinforce the foundation of the development:
 
 - Mapbox will be incorporated due to pricing budget. This will also allow the team to fully customize the app based on the client's needs. 
 
@@ -20,20 +20,9 @@ Since React Native can be implemented for cross-platform development, we are pro
 
 - The team will design an appropriate databse schema for ease of use and create a user-friendly experience for all users 
 
-- Push notification such alerts, reminders when the ride is nearby, updates from the ride/driver and messaging between the driver and passenger and other features will use Pushwoosh and will integrate its system to the mobile app
+- Push notification such alerts confirmations, reminders when the ride is nearby, updates from the ride/driver and messaging between the driver and passenger and other features will use Pushwoosh and will integrate its system to the mobile app
 
-- 
-
-- 
-
-- 
-
- 
-
- 
-
-
-
+- To best protect the user's data and sensitive information, we are considering a few security system services as part of the development. As of this moment, we are looking at Google's Apigee as an implementation
 
 
 ## Consequences

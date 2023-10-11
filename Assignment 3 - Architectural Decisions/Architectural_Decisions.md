@@ -41,4 +41,4 @@ The process will be taxing and things may not go according to plan so we are bei
 
 - Lacking in manpower
 
-With the proposed ideas given, the goal of creating a robust and practical mobile application using the requirements mentioned will prove to be our most challenging project yet. The end result will provide an convenient way to manage transportation rides while giving the user the transparency of the app's concept.
+With the proposed ideas given, the goal of creating a robust and practical mobile application using the requirements mentioned will prove to be our most challenging project yet. The end result will provide a convenient way to manage transportation rides while giving the user the transparency of the app's concept.

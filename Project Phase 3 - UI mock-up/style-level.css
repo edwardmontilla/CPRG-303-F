@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: #1b1b1b;
+    font-family: 'Poppins', sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.logo {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color:#fdcc04;
+    display: inline-flex;
+    padding: 0 1.5rem;
+}
+
+
+.bg {
+    background-color: #fdcc04;
+}
+
+/* Levels locked/unlocked */
+
+.flex-container {
+    display: flex;
+    justify-content: center; /* Horizontally center the flex container */
+    align-items: center; /* Vertically center the flex container */
+    height: 25vh;
+  }
+  
+
+.unlocked {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    border: 2px solid aliceblue;
+    color: white;
+    font-size: 24px;
+}
+
+.locked {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    color: white;
+    font-size: 24px;
+}
+
+.padlock-img {
+    width: 50px; /* Set the width of the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: 20px;
+}
+  
+
+.level1 {
+    background-color: #333;
+}
+  
+.level2 {
+    opacity: 0.7;
+    background-color: rgba(51, 51, 51, 0.7); 
+    margin-left: 10px; 
+}
+
+.level3 {
+    opacity: 0.7;
+    background-color: rgba(51, 51, 51, 0.7); 
+    margin-left: 10px; 
+}
+
+.level4 {
+    opacity: 0.7;
+    background-color: rgba(51, 51, 51, 0.7); 
+    margin-left: 10px; 
+}
+
+.level5 {
+    opacity: 0.7;
+    background-color: rgba(51, 51, 51, 0.7); 
+    margin-left: 10px; 
+}
+  
+
+/*
+button {
+    padding: 10px 24px;
+    background-color: #1b1b1b;
+    color:#fdcc04;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    border-radius: 50px;
+
+}
+
+button:hover{
+    color: #fff;
+}
+*/
+
+/*
+button {
+    padding: 10px 24px;
+    background-color: #1b1b1b;
+    color:#fdcc04;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    border-radius: 50px;
+
+}
+
+button:hover{
+    color: #fff;
+}
+*/
+

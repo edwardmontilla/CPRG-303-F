@@ -43,8 +43,8 @@ nav a{
 
 .flex-container {
     display: flex;
-    justify-content: center; /* Horizontally center the flex container */
-    align-items: center; /* Vertically center the flex container */
+    justify-content: center;
+    align-items: center;
     height: 25vh;
   }
   
@@ -72,9 +72,10 @@ nav a{
     font-size: 24px;
 }
 
-.padlock-img {
-    width: 50px; /* Set the width of the image */
-    height: auto; /* Maintain aspect ratio */
+.lock-img {
+    position: absolute;
+    width: 20px; 
+    height: auto;
     margin-top: 20px;
 }
   

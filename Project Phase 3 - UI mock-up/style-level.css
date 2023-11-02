@@ -72,38 +72,29 @@ nav a{
     font-size: 24px;
 }
 
+/* added this in, fix later */
+.lock-img, .lock-img2, .lock-img3, .lock-img4 {
+    position: absolute;
+    width: 20px;
+    height: auto;
+    margin-top: 20px;
+    top: 100px;
+}
 
 .lock-img {
-    position: absolute;
-    width: 20px; 
-    height: auto;
-    margin-top: 20px;
     left: 320px;
-    top: 100px;
 }
+
 .lock-img2 {
-    position: absolute;
-    width: 20px; 
-    height: auto;
-    margin-top: 20px;
     left: 438px;
-    top: 100px;
 }
+
 .lock-img3 {
-    position: absolute;
-    width: 20px; 
-    height: auto;
-    margin-top: 20px;
     left: 556px;
-    top: 100px;
 }
+
 .lock-img4 {
-    position: absolute;
-    width: 20px; 
-    height: auto;
-    margin-top: 20px;
     left: 674px;
-    top: 100px;
 }
 
 .lock-img img {
@@ -111,30 +102,13 @@ nav a{
     height: auto;
 }
 
+
 .level1 {
     background-color: #333;
 }
 
-
-.level2 {
-    opacity: 0.7;
-    background-color: rgba(51, 51, 51, 0.7); 
-    margin-left: 18px; 
-}
-
-.level3 {
-    opacity: 0.7;
-    background-color: rgba(51, 51, 51, 0.7); 
-    margin-left: 18px; 
-}
-
-.level4 {
-    opacity: 0.7;
-    background-color: rgba(51, 51, 51, 0.7); 
-    margin-left: 18px; 
-}
-
-.level5 {
+/* locked */
+.level2, .level3, .level4, .level5 {
     opacity: 0.7;
     background-color: rgba(51, 51, 51, 0.7); 
     margin-left: 18px; 

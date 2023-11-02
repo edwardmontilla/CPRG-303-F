@@ -1,0 +1,57 @@
+body {
+    background-color: #fdcc04;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-top: 30px;
+}
+
+form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+select,
+input[type="checkbox"] {
+    margin-bottom: 15px;
+}
+
+input[type="submit"] {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: #0645AD;
+}
+
+a:hover {
+    text-decoration: underline;
+}

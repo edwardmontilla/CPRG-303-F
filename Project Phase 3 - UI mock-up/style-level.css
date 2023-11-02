@@ -6,7 +6,6 @@
 }
 
 nav {
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,13 +33,11 @@ nav a{
     padding: 0 1.5rem;
 }
 
-
 .bg {
     background-color: #fdcc04;
 }
 
 /* Levels locked/unlocked */
-
 .flex-container {
     display: flex;
     justify-content: center;

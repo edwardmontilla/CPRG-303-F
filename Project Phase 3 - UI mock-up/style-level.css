@@ -60,6 +60,7 @@ nav a{
 }
 
 .locked {
+    position: relative;
     width: 100px;
     height: 100px;
     display: flex;
@@ -80,6 +81,22 @@ nav a{
 }
 
 .lock-img {
+  left: calc(50% - 69px);
+}
+
+.lock-img2 {
+  left: calc(50% - -49px);
+}
+
+.lock-img3 {
+  left: calc(50% + 167px);
+}
+
+.lock-img4 {
+  left: calc(50% + 285px);
+}
+/*
+.lock-img {
     left: 320px;
 }
 
@@ -99,7 +116,7 @@ nav a{
     width: 100%;
     height: auto;
 }
-
+*/
 
 .level1 {
     text-decoration: none;

@@ -46,7 +46,9 @@ nav a{
     height: 25vh;
   }
   
-
+.unlocked a {
+    color: white;
+}
 .unlocked {
     width: 100px;
     height: 100px;
@@ -95,28 +97,6 @@ nav a{
 .lock-img4 {
   left: calc(50% + 285px);
 }
-/*
-.lock-img {
-    left: 320px;
-}
-
-.lock-img2 {
-    left: 438px;
-}
-
-.lock-img3 {
-    left: 556px;
-}
-
-.lock-img4 {
-    left: 674px;
-}
-
-.lock-img img {
-    width: 100%;
-    height: auto;
-}
-*/
 
 .level1 {
     text-decoration: none;
